@@ -3,7 +3,7 @@
 #### Libraries used for drag'n drop: react-dnd,react-dnd-html5-backend
 
 
-<img src="rocketfy.gif" alt="rocketfy" width="500"/>
+<img src="rocketfy.gif" alt="rocketfy" width="700"/>
 
 #### Tutorial given by Diego Fernandes - Rocketseat
 
