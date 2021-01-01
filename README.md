@@ -1,6 +1,6 @@
 # Rocketfy
-### This React App was created for practicing the concepts of drag and drop cards.
-#### Libraries used for drag'n drop: react-dnd,react-dnd-html5-backend
+### This React App was created in order to practice the concepts of drag and drop using cards.
+#### Libraries used: react-dnd,react-dnd-html5-backend,react-icons
 
 
 <img src="rocketfy.gif" alt="rocketfy" width="700"/>
