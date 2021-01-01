@@ -12,7 +12,8 @@
 
 ```
 $ git clone https://github.com/jmauricioaferreira/rocketfy.git
-
+```
+```
 $ cd rocketfy
 ```
 
