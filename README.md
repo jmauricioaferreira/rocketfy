@@ -13,7 +13,7 @@
 ```
 $ git clone https://github.com/jmauricioaferreira/rocketfy.git
 
-$ cd front-end-challenge-gen
+$ cd 
 ```
 
 ###Installing dependencies
