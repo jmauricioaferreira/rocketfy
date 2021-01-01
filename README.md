@@ -6,7 +6,7 @@
 <img src="rocketfy.gif" alt="rocketfy" width="700"/>
 
 
-# Getting Started
+## Getting Started
 
 <h3>Clonning the Repository</h3>
 
