@@ -8,7 +8,7 @@
 
 # Getting Started
 
-###Clonning the Repository
+<h3>Clonning the Repository</h3>
 
 ```
 $ git clone https://github.com/jmauricioaferreira/rocketfy.git
@@ -17,7 +17,7 @@ $ git clone https://github.com/jmauricioaferreira/rocketfy.git
 $ cd rocketfy
 ```
 
-###Installing dependencies
+<h3>Installing dependencies</h3>
 
 ```
 $ yarn add react-scripts
