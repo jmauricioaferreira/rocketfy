@@ -8,10 +8,10 @@
 
 # Getting Started
 
-<h3>Clonning the Repository</h3>
+###Clonning the Repository
 
 ```
-$ git@github.com:brpadilha/front-end-challenge-gen.git
+$ git clone https://github.com/jmauricioaferreira/rocketfy.git
 
 $ cd front-end-challenge-gen
 ```
@@ -21,10 +21,6 @@ $ cd front-end-challenge-gen
 ```
 $ yarn
 ```
-
-You will need to run the [backend]('https://github.com/brpadilha/backend-challenge-gen') API to run this project.
-
-After the installation of the backend and with him running, you can run on your terminal:
 
 ```
 $ yarn start
